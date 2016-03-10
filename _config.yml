@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: Leonir Alves
+locale: pt_BR
+description: Desenvolvimento iOS
 logo: site-logo.png
 search: true
 url: http://localhost:4000
